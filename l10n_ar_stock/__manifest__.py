@@ -13,7 +13,7 @@
     'data': [
         'security/l10n_ar_stock_security.xml',
         'wizards/arba_cot_wizard_views.xml',
-        'wizards/res_config_settings_view.xml',
+        # 'wizards/res_config_settings_view.xml',
         'views/stock_picking_views.xml',
         'views/stock_book_views.xml',
         'views/product_template_views.xml',
